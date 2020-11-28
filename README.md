@@ -1,6 +1,9 @@
 # rpi_cpu_infoscreen
 A small program to drive the pcd8544 cpu info screen on a raspberry pi
 
+Chương trình hiển thị thông tin lên màn hình 1.6" gắn vào Raspberry Pi.
+
+
 
 ## Introduction
 This is a simple small program to drive a product called the RPi 1.6" CPUInfo Screen

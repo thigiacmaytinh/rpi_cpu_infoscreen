@@ -84,7 +84,7 @@ void low_initialise() {
 	set_reset(1);
 	usleep(50*1000);
 	send_command_byte(0x21);	  // LCD Extended Commands.
-	send_command_byte(0xB1);	  // Set LCD Vop (Contrast).
+	send_command_byte(0xB7);	  // Set LCD Vop (Contrast).
 	send_command_byte(0x04);	  // Set Temp coefficent. //0x04
 	send_command_byte(0x14);	  // LCD bias mode 1:48. //0x13
 	send_command_byte(0x20);	  // LCD Basic Commands
