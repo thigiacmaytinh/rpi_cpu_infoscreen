@@ -3,7 +3,7 @@ A small program to drive the pcd8544 cpu info screen on a raspberry pi
 
 Chương trình hiển thị thông tin lên màn hình 1.6" gắn vào Raspberry Pi.
 
-
+![Final product](59d4fe079d1e6c40350f.jpg)
 
 ## Introduction
 This is a simple small program to drive a product called the RPi 1.6" CPUInfo Screen
@@ -68,3 +68,5 @@ on the command line
 There is also a little script called update that fetches some more or less usefull stuff to put on your shiny new display.
 
 Enjoy!
+
+
